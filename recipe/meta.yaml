@@ -20,6 +20,7 @@ requirements:
     - python {{ python_min }}
     - pip
     - poetry
+    - hatchling
   run:
     - python >={{ python_min }},<4.0
     - ipykernel >=5.4.0
