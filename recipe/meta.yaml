@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/nbmake-{{ version }}.tar.gz
-  sha256: 3f38cb3b8ca4d8a648d1903705b237516c9d29a221ad6129c63bfaddd1abb93f
+  sha256: 239dc868ea13a7c049746e2aba2c229bd0f6cdbc6bfa1d22f4c88638aa4c5f5c
 
 build:
   number: 0
